@@ -1,0 +1,25 @@
+# Compiled class files
+*.class
+
+# Maven target directory
+target/
+
+# IntelliJ IDEA files
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Eclipse files
+.project
+.classpath
+.settings/
+
+# MacOS & System files
+.DS_Store
+Thumbs.db
+
+# ANTLR generated files
+*.tokens
+*.interp
+*.java
